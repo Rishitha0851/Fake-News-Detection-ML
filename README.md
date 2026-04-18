@@ -35,3 +35,5 @@ This project classifies news as Fake or Real using Machine Learning.
 ## Sample Prediction
 Input: "Government announces new policy"
 Output: Real News / Fake News
+## Output
+![Confusion Matrix](screenshot.png)
