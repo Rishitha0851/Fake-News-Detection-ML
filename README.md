@@ -21,3 +21,17 @@ This project classifies news as Fake or Real using Machine Learning.
 - fake_news.py → main code
 - model.pkl → trained model
 - vectorizer.pkl → text vectorizer
+## Model Performance
+- Accuracy: 98.5%
+- Confusion Matrix used for evaluation
+
+## How to Run
+1. Install requirements:
+   pip install -r requirements.txt
+
+2. Run the script:
+   python fake_news.py
+
+## Sample Prediction
+Input: "Government announces new policy"
+Output: Real News / Fake News
