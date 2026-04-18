@@ -37,3 +37,5 @@ Input: "Government announces new policy"
 Output: Real News / Fake News
 ## Output
 ![Confusion Matrix](screenshot.png)
+## How it Works
+The model uses TF-IDF to convert text into numerical features and applies Logistic Regression to classify news articles as Fake or Real based on learned patterns.
